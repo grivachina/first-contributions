@@ -2029,6 +2029,7 @@ Darien Edwards
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - Lance Xie
+- [Stanislav](https://github.com/grivachina)
 [kush gupta]
 - [Mannaseh Merakanapalli](https://github.com/MannasehM)
 - [Chris Bruce](https://github.com/brucec5)
